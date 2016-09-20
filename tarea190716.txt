@@ -1,1 +1,10 @@
 create mode 100644 readme.txt
+
+GIT es el software que rastrea. El sistema de control de versiones. La herramienta que utilizaremos en la terminal.
+
+
+GitHub es la plataforma de "hosting" de los proyectos. Una comunidad llena de personas que desarrollan y comparten, usando GIT. 
+
+
+Se complementan, pero son personajes independientes.
+
